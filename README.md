@@ -22,4 +22,4 @@ This project is a comprehensive **Stock Analysis and Trading Assistant** built i
 
 ---
 
-Feel free to clone the repository, explore the features, and customize the tool to your needs! Contributions are welcome. 🚀
+Feel free to clone the repository, explore the features, and customize the tool to your needs! Contributions are welcome. 
